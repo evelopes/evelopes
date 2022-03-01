@@ -13,8 +13,9 @@
 * [Hexadecimal para Binário]() >> BREVE
 
 
-## Estudando, Javascript, Python e Java. Cursando ADS na Mackenzie, e em busca de uma oportunidade para trabalhar com Desenvolvimento!
-# 💬 Entre em contato pelo <a href="https://www.linkedin.com/in/evelinlopes/">LinkedIn</a>
+## Estudando: 
+### Javascript, Python e Java. Cursando ADS na Mackenzie, e em busca de uma oportunidade para trabalhar com Desenvolvimento!
+### 💬 Entre em contato pelo <a href="https://www.linkedin.com/in/evelinlopes/">LinkedIn</a>
 <!--
 **evelopes/evelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
