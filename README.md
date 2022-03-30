@@ -29,4 +29,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   <a href="https://www.linkedin.com/in/evelinlopes/">
+    <img src="https://img.shields.io/badge/LinkedIn-230f2b?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://instagram.com/trazumcafe">
+    <img src="https://img.shields.io/badge/Instagram-230f2b?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
  <img alingn="center" src="https://profile-counter.glitch.me/evelopes/count.svg" />
