@@ -7,7 +7,7 @@
 * [Decimal para Qualquer Base](https://github.com/evelopes/Mackenzie/blob/main/decimalParaQualquerBase.js) >> Código em Javascript, para converter qualquer numero decimal, para base binária, octal e hexadecimal
 * [Octal para binário](https://github.com/evelopes/Mackenzie/blob/main/octalParaBinario.js) >> Código em Javascript que converte Octal para binário
 * [Qualquer Base para Decimal](https://github.com/evelopes/Mackenzie/blob/main/qualquerBaseParaDecimal.js) >> Converter da base binária, octal ou hexadecimal para decimal
-* * [Hexadecimal para Binário](https://github.com/evelopes/Mackenzie/blob/main/hexadecimalPraBin%C3%A1rio.js)  >> Converte Hexadecimal para binário 
+* [Hexadecimal para Binário](https://github.com/evelopes/Mackenzie/blob/main/hexadecimalPraBin%C3%A1rio.js)  >> Converte Hexadecimal para binário 
 
 ## :new_moon:Projetos Andamento:
 
