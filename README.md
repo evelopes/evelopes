@@ -4,10 +4,9 @@
 <a href="https://www.instagram.com/trazumcafe/"> >> Instagram com resumos de conteúdos aprendidos na Universidade<< </a>
 
 ## :full_moon: Projetos Concluídos:
-* [Nasa Imagens](https://github.com/evelopes/Nasa-imagens) >> Consumindo API de fotos da Nasa >> [Acesse online] (https://evelopes.github.io/Nasa-imagens/) 
-* [To DO list](https://github.com/evelopes/conversor_de_bases) >> TO Do List para imprimir >> [Acesse online] (https://evelopes.github.io/Santander/TO-DO-LIST/index.html)
-* [Conversor de Bases](https://github.com/evelopes/conversor_de_bases) >> Código em Javascript, para converter qualquer numero decimal, para base binária, octal e hexadecimal >> [Acesse online] (https://evelopes.github.io/Nasa-imagens/) 
-
+* [Nasa Imagens](https://github.com/evelopes/Nasa-imagens) >> Consumindo API de fotos da Nasa >> [Acesse online](https://evelopes.github.io/Nasa-imagens/) 
+* [To DO list](https://github.com/evelopes/conversor_de_bases) >> TO Do List para imprimir >> [Acesse online](https://evelopes.github.io/Santander/TO-DO-LIST/index.html)
+* [Conversor de Bases](https://github.com/evelopes/conversor_de_bases) >> Código em Javascript, para converter qualquer numero decimal, para base binária, octal e hexadecimal >> [Acesse online](https://evelopes.github.io/conversor_de_bases/)
 
 https://evelopes.github.io/Santander/TO-DO-LIST/index.html
 
