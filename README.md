@@ -4,10 +4,12 @@
 <a href="https://www.instagram.com/trazumcafe/"> >> Instagram com resumos de conteúdos aprendidos na Universidade<< </a>
 
 ## :full_moon: Projetos Concluídos:
-* [Decimal para Qualquer Base](https://github.com/evelopes/Mackenzie/blob/main/decimalParaQualquerBase.js) >> Código em Javascript, para converter qualquer numero decimal, para base binária, octal e hexadecimal
-* [Octal para binário](https://github.com/evelopes/Mackenzie/blob/main/octalParaBinario.js) >> Código em Javascript que converte Octal para binário
-* [Qualquer Base para Decimal](https://github.com/evelopes/Mackenzie/blob/main/qualquerBaseParaDecimal.js) >> Converter da base binária, octal ou hexadecimal para decimal
-* [Hexadecimal para Binário](https://github.com/evelopes/Mackenzie/blob/main/hexadecimalPraBin%C3%A1rio.js)  >> Converte Hexadecimal para binário 
+* [Nasa Imagens](https://github.com/evelopes/Nasa-imagens) >> Consumindo API de fotos da Nasa >> [Acesse online] (https://evelopes.github.io/Nasa-imagens/) 
+* [To DO list](https://github.com/evelopes/conversor_de_bases) >> TO Do List para imprimir >> [Acesse online] (https://evelopes.github.io/Santander/TO-DO-LIST/index.html)
+* [Conversor de Bases](https://github.com/evelopes/conversor_de_bases) >> Código em Javascript, para converter qualquer numero decimal, para base binária, octal e hexadecimal >> [Acesse online] (https://evelopes.github.io/Nasa-imagens/) 
+
+
+https://evelopes.github.io/Santander/TO-DO-LIST/index.html
 
 ## :new_moon:Projetos Andamento:
 
