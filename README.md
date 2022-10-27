@@ -1,20 +1,18 @@
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS3"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="Javascript" width="70px"/><img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" width="70px"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" width="70px"/>
 
-
-<a href="https://www.instagram.com/trazumcafe/"> >> Instagram com resumos de conteúdos aprendidos na Universidade<< </a>
 
 ## :full_moon: Projetos Concluídos:
+* [Calculo IMC com Java](https://github.com/evelopes/imcJava/tree/main/IMC/src/Calculo)
+* [Aulas de Java Capgemini](https://github.com/evelopes/Aulas-Cap/tree/main/Aulas/src)
+* [Atividades Java Mackenzie e Estudos W3Schools](https://github.com/evelopes/Programa-o_de_Sistemas_1)
 * [Nasa Imagens](https://github.com/evelopes/Nasa-imagens) >> Consumindo API de fotos da Nasa >> [Acesse online](https://evelopes.github.io/Nasa-imagens/) 
 * [To DO list](https://github.com/evelopes/Santander/tree/main/TO-DO-LIST) >> TO Do List para imprimir >> [Acesse online](https://evelopes.github.io/Santander/TO-DO-LIST/index.html)
 * [Conversor de Bases](https://github.com/evelopes/conversor_de_bases) >> Código em Javascript, para converter qualquer numero decimal, para base binária, octal e hexadecimal >> [Acesse online](https://evelopes.github.io/conversor_de_bases/)
 
 https://evelopes.github.io/Santander/TO-DO-LIST/index.html
 
-## :new_moon:Projetos Andamento:
-
 
 ## Estudando: 
-### Javascript, Python e Java. Cursando ADS na Mackenzie, e em busca de uma oportunidade para trabalhar com programação!
+### Java na Capgemini e Coursera, em busca de uma oportunidade para trabalhar com programação!
 
 <div>
 <a href="https://github.com/evelopes">
