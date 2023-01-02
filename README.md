@@ -3,7 +3,7 @@
 ## :full_moon: Projetos:
 
 
-* [API Rest com Spring Boot] (https://github.com/evelopes/semana-spring-rest)
+* [API Rest com Spring Boot](https://github.com/evelopes/semana-spring-rest)
 * [Calculo IMC com Java](https://github.com/evelopes/imcJava/tree/main/IMC/src/Calculo)
 * [Aulas de Java Capgemini](https://github.com/evelopes/Aulas-Cap/tree/main/Aulas/src)
 * [Atividades Java Mackenzie e Estudos W3Schools](https://github.com/evelopes/Programa-o_de_Sistemas_1)
